@@ -1,0 +1,9 @@
+	DATASET EXPLAINATIONS
+
+The KR dataset (Kids Recode) contains information on children and their mothers, including variables related to child health, nutrition, and demographic characteristics. 
+
+The Hr dataset (Household Recode) includes household-level data such as household characteristics, education, wealth index, and living conditions.
+
+To create a single analytical dataset, the two files were merged using common identifiers usually cluster number, household number, and respondent’s line number allowing the child-level records from the KR dataset to be matched with corresponding household information from the PR dataset.
+
+source of the data: http://www.dhsprogram.com/data/dataset_admin/login_main.cfm
